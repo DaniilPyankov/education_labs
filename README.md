@@ -1,2 +1,1 @@
 # education_labs
-ed
