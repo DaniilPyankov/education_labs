@@ -1,16 +1,16 @@
-# 1:
+# Задача 1:
 s = "abcdefghijklmnop"
 while s != "":
   print(s)
   s = s[1:-1]
 
-# 2:
+# Задача 2:
 # for i in range(1,10):
 #  for j in range(1,10):
 #    print(' %2i' % (i*j), end='')
 #  print()
 
-# 3
+# Задача 3
 x = range(10)
 print('')
 print('Сумма ряда x = range(10):')
@@ -27,7 +27,7 @@ while x:
     x = x[1:]
 print ('    while: ', s, end='\n\n')
 
-# 5
+# Задача 4
 b = [20, 24, 26, 30]
 print('Среднее значение ряда b = [20, 24, 26, 30]:')
 
