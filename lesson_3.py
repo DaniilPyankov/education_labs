@@ -22,5 +22,5 @@ for pers in people:
         height_max = pers[3]
         pers_max = pers
 
-print('')
+print(' ')
 print('Самый высокий - ', pers_max[0], ':  ', pers_max[3], 'см')
