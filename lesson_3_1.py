@@ -26,7 +26,6 @@ if ind < 2 or ind > 4:
     print('Такого критерия нет!')
 
 ind_max = 0
-pers_max = []
 for pers in people:
     if pers[ind] > ind_max:
         ind_max = pers[ind]
