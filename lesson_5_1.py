@@ -1,6 +1,3 @@
-# lesson 3
-
-# list find:
 people = [
     ['Ivan Semenov', 'm', 1990, 180, 85],
     ['Petr Popov', 'm', 1980, 176, 89],
